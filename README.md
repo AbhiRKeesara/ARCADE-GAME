@@ -6,10 +6,6 @@ Project #3 of Udacity's [Front-End Web Developer Nanodegree](https://www.udacity
 
 ##Getting Started
 
-######Live
-
-Point your browser to http://retrofrogger.com
-
 ######Locally
 
 **1.** Clone this repo:
